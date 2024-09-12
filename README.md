@@ -32,5 +32,5 @@ Create engaging and interactive content that encourages comments, shares, and ot
 <b>Storytelling</b><br>
 Use storytelling techniques to make your content more relatable and engaging. People tend to engage more with content that resonates with them on a personal level.
 
-3. Track Performance
+<b>3. Track Performance</b><br>
 Monitor and evaluate photo content performance metrics and other status types on a regular basis to find out what appeals to the audience. Utilize analytical tools to monitor engagement metrics such as likes, shares, comments, and others.
