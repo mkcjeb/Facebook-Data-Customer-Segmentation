@@ -15,13 +15,13 @@ The analysis showed valuable insights into the impact of different types of cont
 ### Recommendation
 <b>1. Content and Relationship Strategy</b><br>
 
-<b>Photo Emphasis</b><br>
+- <b>Photo Emphasis</b><br>
 With the popularity of photos, company should focus on creating visually appealing and engaging photo content. Use high-quality images that are likely to stimulate positive emotions and encourage likes.
 
-<b>Diversification</b><br>
+- <b>Diversification</b><br>
 While photos are popular, consider diversifying content with videos and text posts to cater to different audience preferences. Cluster 3, for example, shows a strong interest in videos, suggesting an opportunity to explore video content creation.
 
-<b>Emotional Appeal</b><br>
+- <b>Emotional Appeal</b><br>
 Ensure that the content create positive emotions such as happiness, excitement, or inspiration, as these are more likely to result in likes and positive engagement. This is aligned with the findings by Lee et al. (2016) who found out that enjoyment of content and interpersonal relationships were the two most common motives for liking.
 
 <b>2. Engagement Strategies</b><br>
