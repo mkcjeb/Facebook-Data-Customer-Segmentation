@@ -26,10 +26,10 @@ Ensure that the content create positive emotions such as happiness, excitement, 
 
 <b>2. Engagement Strategies</b><br>
 
-<b>Interactive Content</b><br>
+- <b>Interactive Content</b><br>
 Create engaging and interactive content that encourages comments, shares, and other forms of reactions. The use of unusual, participatory activities such as contests, games, and artistic performances will drive reactions and comments (Apiradee Wongkitrungrueng, Nassim Dehouche & Nuttapol Assarut, 2020).
 
-<b>Storytelling</b><br>
+- <b>Storytelling</b><br>
 Use storytelling techniques to make your content more relatable and engaging. People tend to engage more with content that resonates with them on a personal level.
 
 <b>3. Track Performance</b><br>
